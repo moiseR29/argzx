@@ -1,0 +1,2 @@
+# argzx
+Simple Cli Argument
